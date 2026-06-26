@@ -12,6 +12,6 @@ I'm learning Python and building small projects to improve my programming skills
 - Git & GitHub                                                                 
 <div align="right">
 
-  <img width="736" height="414" alt="cfbf7ffd6dde7b4bd4be383b4f1eb638" src="https://github.com/user-attachments/assets/48c8cbd0-6b28-41fd-ba4c-77c2f3b2ff4c" />
+  <img width="360" height="360" alt="cfbf7ffd6dde7b4bd4be383b4f1eb638" src="https://github.com/user-attachments/assets/48c8cbd0-6b28-41fd-ba4c-77c2f3b2ff4c" />
 
 </div>
