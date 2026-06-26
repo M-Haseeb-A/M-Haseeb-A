@@ -2,7 +2,7 @@
 
 🐍 Beginner Python Developer
 
-I'm currently learning Python and building small projects to improve my programming skills.
+I'm learning Python and building small projects to improve my programming skills.
 
 🌱 Currently Learning
 
