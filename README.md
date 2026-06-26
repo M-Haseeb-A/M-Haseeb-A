@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I am Haseeb
 
-<!--
+🐍 Beginner Python Developer
+
+<!-I'm currently learning Python and building small projects to improve my programming skills. My goal is to become a backend developer and contribute to open-source projects in the future.
 **M-Haseeb-A/M-Haseeb-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
