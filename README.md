@@ -7,6 +7,7 @@ I'm currently learning Python and building small projects to improve my programm
 🌱 Currently Learning
 - Python Basics
 - Object-Oriented Programming (OOP)
-- Error Handling
+- Error Handling                                                                          <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/e344271d-b58f-4024-86a6-c03ebf2e2ab3" />
+
 - Git & GitHub
 
