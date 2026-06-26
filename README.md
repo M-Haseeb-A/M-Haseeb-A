@@ -12,5 +12,8 @@ I'm currently learning Python and building small projects to improve my programm
 
 
 
-                                                                                    <img width="235" height="214" alt="image" src="https://github.com/user-attachments/assets/c0acdb0a-100e-4676-afb9-fdbdac3863f9" />
+                                                                <img width="360" height="360" alt="young-man-working-laptop-computer-having-idea-freelance-job-creativity-innovation-business-idea-concept-3d-vector-people-character-illustration-cartoon-minimal-style_365941-795" src="https://github.com/user-attachments/assets/a32d1526-d57e-4cc3-905b-0cf0162929f2" />
+
+
+
 
