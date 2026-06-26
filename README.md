@@ -12,4 +12,5 @@ I'm currently learning Python and building small projects to improve my programm
 
 
 
-                                                                                    <img width="612" height="612" alt="WhatsApp Image 2026-06-26 at 3 15 02 PM" src="https://github.com/user-attachments/assets/f6bb38f3-0430-4a4e-a6f6-b37ab3093bb7" />
+                                                                                    <img width="235" height="214" alt="image" src="https://github.com/user-attachments/assets/c0acdb0a-100e-4676-afb9-fdbdac3863f9" />
+
