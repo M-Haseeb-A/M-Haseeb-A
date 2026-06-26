@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Haseeb
 
-🐍 Beginner Python Developer
+🐍 Junior Python Developer
 
 I'm learning Python and building small projects to improve my programming skills.
 
