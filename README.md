@@ -1,12 +1,20 @@
 ## Hi there 👋 I am Haseeb
 
-🐍 Junior Backend Developer
+🐍Backend Developer | Automation | Rest API's
 
-I'm learning Python and building projects to improve my programming skills.
+I'm a Python developer passionate about building something new.   
 
-🌱 Currently Learning
 
-- Python Basics
-- Object-Oriented Programming (OOP)
-- Error Handling                                                             
-- Git & GitHub                                                                 
+🛠️ Skills
+
+- Python
+- Automation
+- web scraping
+- script writing                                                            
+
+🌱 Currently learning                                                                   
+
+- REST API'S (improving)
+- Backend development
+
+💼  Reach me : haseebashfaq700@gmail.com
