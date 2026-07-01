@@ -4,8 +4,6 @@
 
 I'm a Python developer passionate about building useful applications, automating tasks, and continuously learning new technologies.
 
-🛠️ Skills
-
 
 🛠️ Skills
 
