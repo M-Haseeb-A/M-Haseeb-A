@@ -2,7 +2,9 @@
 
 🐍Backend Developer | Automation | Rest API's
 
-I'm a Python developer passionate about building something new.   
+I'm a Python developer passionate about building useful applications, automating tasks, and continuously learning new technologies.
+
+🛠️ Skills
 
 
 🛠️ Skills
